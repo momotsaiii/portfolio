@@ -24,8 +24,6 @@
 
 **使用語言：** C++、Qt
 
-**Github：** [Sokoban 專案原始碼](https://github.com/f64086258/sokoban_pd2)
-
 **成果：** [遊戲功能展示影片](https://www.youtube.com/watch?v=GkovijjWddk)
 
 **簡介：**
