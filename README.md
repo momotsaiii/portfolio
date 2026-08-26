@@ -1,82 +1,42 @@
-# 蔡孟璇｜程式作品集
+# 蔡孟璇 專案作品相關連結
 
-這裡整理我的程式開發與專案作品，包含 React 網頁開發、Unity 遊戲開發，以及 C++ / Qt 桌面應用程式開發。
+<br>
 
----
+1. **大型合作專案 - 繪本網站**
 
-## 📚 大型合作專案
+<br>
 
-### 1. 繪本網站
+使用語言及工具：JavaScript 與 React
+成果Demo影片：https://drive.google.com/file/d/1tChAO_m7C5pXPKEVv7ClCa33wWdMSPM5/view?usp=drive_link
 
-**使用語言及工具**
-- JavaScript
-- React
+<br>
+<br>
 
-**成果 Demo**
-[觀看 Demo 影片](https://drive.google.com/file/d/1tChAO_m7C5pXPKEVv7ClCa33wWdMSPM5/view?usp=drive_link)
+2. **大型合作專案 - VR遊戲製作**
 
----
+<br>
 
-### 2. VR 遊戲製作
+使用語言及工具：C#、Unity
+成果Demo：https://drive.google.com/file/d/1VTs568QTPwslCHxxMSRKna82YltraG62/view?usp=drive_link
 
-**使用語言及工具**
-- C#
-- Unity
+<br>
+<br>
 
-**成果 Demo**
-[觀看 Demo 影片](https://drive.google.com/file/d/1VTs568QTPwslCHxxMSRKna82YltraG62/view?usp=drive_link)
+3. **個人程式作品 - 遊戲設計——推箱子：**
 
----
+使用語言：C++、Qt
+Github連結：https://github.com/f64086258/sokoban_pd2
+遊戲功能展示影片：https://www.youtube.com/watch?v=GkovijjWddk
 
-## 💻 個人程式作品
+簡介：引用 Qt 的 class，包括 menu 頁面按鈕的配置、匯入地圖的佈局以及滑鼠、鍵盤事件。遊戲方式為移動角色將所有箱子推向儲存點即為勝利，並額外增加一些互動，如：撿金幣、採炸彈等，讓遊戲增加豐富度。
 
-### 3. 遊戲設計｜推箱子
+<br>
+<br>
 
-**使用語言及工具**
-- C++
-- Qt
+4. **個人程式作品 - 人物操作遊戲練習**
 
-**GitHub 原始碼**
+<br>
 
-[查看 Sokoban 專案](https://github.com/f64086258/sokoban_pd2)
+使用語言及工具：C#、Unity
 
-**遊戲功能展示**
-
-[觀看 YouTube Demo](https://www.youtube.com/watch?v=GkovijjWddk)
-
-**專案簡介**
-
-使用 C++ 與 Qt 進行遊戲開發，包含 Menu 頁面按鈕配置、地圖匯入與佈局，以及滑鼠與鍵盤事件處理。
-
-遊戲主要玩法為控制角色移動，將所有箱子推至指定儲存點即可獲勝。
-
-另外加入撿取金幣、炸彈等互動元素，增加遊戲的豐富度與趣味性。
-
----
-
-### 4. 人物操作遊戲練習
-
-**使用語言及工具**
-- C#
-- Unity
-
-**遊戲功能展示**
-
-[觀看 YouTube Demo](https://www.youtube.com/watch?v=yzHzVgvB6Ws)
-
----
-
-## 🛠️ 技術
-
-- C
-- C++
-- C#
-- Python
-- Java
-- JavaScript
-- React
-- Unity
-- Qt
-- Git
-- API 串接
-- Computer Vision
+遊戲功能展示影片：https://www.youtube.com/watch?v=yzHzVgvB6Ws
